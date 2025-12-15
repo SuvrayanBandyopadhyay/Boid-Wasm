@@ -30,7 +30,7 @@ A **boids (flocking) simulation** written in **C++** and compiled to **WebAssemb
    ```
 4. Run a local python server
   ```Bash
-      python -m http.server
+  python -m http.server
   ```
 
 # Notes
