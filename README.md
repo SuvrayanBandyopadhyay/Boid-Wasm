@@ -21,9 +21,9 @@ A **boids (flocking) simulation** written in **C++** and compiled to **WebAssemb
       ./emsdk activate latest
    ```    
 2. Activate Emscripten
-   ```bash
-      emsdk_env.bat
-   ```
+      ```bash
+         emsdk_env.bat
+      ```
 3. Build the provided build script
    ```bash
        build.bat
