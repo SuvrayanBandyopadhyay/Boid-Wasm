@@ -1,7 +1,9 @@
 # Boid-Wasm
 A **boids (flocking) simulation** written in **C++** and compiled to **WebAssembly** using **Emscripten**. The simulation runs entirely in the browser.
 
-# Screenshot
+# Screenshots
+<img width="1871" height="918" alt="image" src="https://github.com/user-attachments/assets/7beb42fc-b570-45fd-9025-711e11329c3d" />
+
 <img width="1896" height="967" alt="image" src="https://github.com/user-attachments/assets/2aee282e-9a46-4887-919a-3407845095ba" />
 
 # Dependencies
