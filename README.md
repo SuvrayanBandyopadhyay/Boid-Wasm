@@ -29,9 +29,9 @@ A **boids (flocking) simulation** written in **C++** and compiled to **WebAssemb
        build.bat
    ```
 4. Run a local python server
-  ```Bash
-  python -m http.server
-  ```
+   ```Bash
+     python -m http.server
+   ```
 
 # Notes
 1. Performance depends on boid count and browser
